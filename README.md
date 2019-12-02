@@ -1,6 +1,8 @@
 # WindowsUSBDeviceInfo
 
 usage
+
+
         static List<USBDeviceInfo> GetUSBDevices()
         {
             List<USBDeviceInfo> devices = new List<USBDeviceInfo>();
